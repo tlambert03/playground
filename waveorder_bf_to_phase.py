@@ -21,10 +21,11 @@ PARAMS = {
     "yx_pixel_size": 6.5 / 60,
     "z_pixel_size": 0.5,
     "index_of_refraction_media": 1.520,
-    "z_padding": 0,
+    "z_padding": 20,
     "wavelength_illumination": 0.525,
     "numerical_aperture_illumination": 0.52,
     "numerical_aperture_detection": 1.4,
+    "invert_phase_contrast": True,
 }
 
 
