@@ -25,6 +25,7 @@ PARAMS = {
     "wavelength_illumination": 0.525,
     "numerical_aperture_illumination": 0.52,
     "numerical_aperture_detection": 1.4,
+    "invert_phase_contrast": True,
 }
 
 
